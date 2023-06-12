@@ -1,21 +1,14 @@
-# codcf42ff9470d4465736695b
+# Malik's Info Card
 
-Quick start:
+This is a simple example of how to build a portfolio site with HTML, CSS and JavaScript.
 
-```
-$ npm install
-$ npm start
-````
+## About The Project
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+This projects builds the small bricks to teach you everything you need to become a Junior Developer. Projects like these may seem miniscule to real production type environments but the concepts learn via the process will pay dividends! 🚀
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- [My LinkedIn](https://www.linkedin.com/in/malikgirondin)
+- [My YouTube](https://m.youtube.com/@malikgirondin/videos)
+- [My Info Card](https://malik-girondin.github.io/info-card/)
 
 Happy Coding!
+
