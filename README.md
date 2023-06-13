@@ -12,3 +12,4 @@ This projects builds the small bricks to teach you everything you need to become
 
 Happy Coding!
 
+<img width="1423" alt="Screenshot 2023-06-11 at 9 22 03 PM" src="https://github.com/Malik-Girondin/info-card/assets/132381912/a0fad130-d109-42ab-9b8f-af84b723d706">
