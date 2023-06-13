@@ -2,7 +2,7 @@
 // Replace the arguments below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
-favouriteMovieGenre("military")
+favouriteMovieGenre("factasy")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
 favouriteFruit("blueberry")
@@ -11,7 +11,7 @@ favouriteFruit("blueberry")
 favouriteMode("dark")
 
 // sharp, soft, round
-favouriteEdgeStyle("round")
+favouriteEdgeStyle("soft")
 
 
 
